@@ -1,6 +1,6 @@
 # Código de los Tutoriales del Blog
 
-Este repositorio contiene el código fuente de los tutoriales del blog enfocados en Ciencia de Datos e Inteligencia Artificial. Los ejemplos proporcionan material práctico para aprender y experimentar con conceptos clave en estos campos, incluyendo el uso de herramientas, algoritmos y técnicas modernas.
+Este repositorio contiene el código fuente de los tutoriales del [blog](https://fikai.vercel.app/) enfocados en Ciencia de Datos e Inteligencia Artificial. Los ejemplos proporcionan material práctico para aprender y experimentar con conceptos clave en estos campos, incluyendo el uso de herramientas, algoritmos y técnicas modernas.
 
 ### Estructura del repositorio:
 
