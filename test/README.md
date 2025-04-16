@@ -1,3 +1,0 @@
-primer parrafo
-
-segundo parrafo
