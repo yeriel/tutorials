@@ -1,3 +1,0 @@
-# ServiceAI
-
-Descripcion del proyecto
